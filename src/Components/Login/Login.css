@@ -1,0 +1,25 @@
+.log-in-div{
+    width: 400px;
+    justify-content: center;
+}
+
+.login-page{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0%;
+    background-color: #fff;
+}
+.div-height{
+    height: 100vh;
+}
+.sign-in-page {
+    font-size: 15px;
+    color: #8c9097;
+    text-align: center;
+    margin-top: 40px;
+}
+.sign-in-page a {
+    color: blue !important;
+    text-decoration: none;
+}

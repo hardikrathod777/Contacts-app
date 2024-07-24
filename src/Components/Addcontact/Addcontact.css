@@ -1,0 +1,34 @@
+.user-img img{
+    width: 162px;
+    height: 162px;
+}
+.btn-save{
+    color: #fff;
+    background-color: #0b57d0;
+    border: none;
+    border-radius: 24px;
+    padding: 10px 24px;
+    position: absolute;
+}
+
+.btn-save-1{
+    color: #fff;
+    background-color: #0b57d0;
+    border: none;
+    border-radius: 24px;
+    padding: 10px 24px;
+    position: absolute;
+    top: 9%;
+    left: 40%;
+}
+.inner-div{
+    width: 660px;
+    padding-left: 48px;
+    padding-top: 50px;
+}
+
+.user-icon-input{
+    font-size: 24px;
+    color: #747775;
+    margin: 0px 20px 0px 10px;
+}

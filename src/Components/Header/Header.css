@@ -1,0 +1,33 @@
+.logo-text{
+    color: #5f6368;
+    font-size: 22px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.search-area input{
+    width: 613px;
+    height: 46px;
+    background-color: transparent;
+    border: none;
+}
+
+.search-area{
+    background-color: #f1f3f4;
+    border-radius: 10px;
+}
+.search-area .lr{
+    color: #5f6368;
+    font-size: 17px;
+    /* padding: 8px; */
+    margin: 10px;
+}
+.search-area input:focus-visible {
+    outline-offset: 0px !important;
+}
+.log-in-user{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 10px;
+}
